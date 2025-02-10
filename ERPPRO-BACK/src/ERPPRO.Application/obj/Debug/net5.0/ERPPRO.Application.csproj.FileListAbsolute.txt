@@ -1,0 +1,17 @@
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Application.deps.json
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Application.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ref\ERPPRO.Application.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Application.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csprojAssemblyReference.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.AssemblyInfoInputs.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.AssemblyInfo.cs
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csproj.CoreCompileInputs.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ref\ERPPRO.Application.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Domain.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Persistence.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Domain.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Persistence.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csproj.CopyComplete

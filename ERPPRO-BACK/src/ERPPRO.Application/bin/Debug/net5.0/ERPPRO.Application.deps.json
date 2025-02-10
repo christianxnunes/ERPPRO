@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ERPPRO.Application/1.0.0": {
+        "dependencies": {
+          "ERPPRO.Domain": "1.0.0",
+          "ERPPRO.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "ERPPRO.Application.dll": {}
+        }
+      },
+      "ERPPRO.Domain/1.0.0": {
+        "runtime": {
+          "ERPPRO.Domain.dll": {}
+        }
+      },
+      "ERPPRO.Persistence/1.0.0": {
+        "dependencies": {
+          "ERPPRO.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ERPPRO.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERPPRO.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERPPRO.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERPPRO.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
