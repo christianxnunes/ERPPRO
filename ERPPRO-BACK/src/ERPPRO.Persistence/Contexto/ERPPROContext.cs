@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using ERPPRO.Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace ERPPRO.Persistence
+namespace ERPPRO.Persistence.Contexto
 {
     public class ERPPROContext : DbContext
     {

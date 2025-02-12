@@ -506,7 +506,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "ERPPRO.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.2"
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.2"
         },
         "compile": {
           "bin/placeholder/ERPPRO.Persistence.dll": {}

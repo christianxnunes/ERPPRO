@@ -1,8 +1,6 @@
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.deps.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ref\ERPPRO.Persistence.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.pdb
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csprojAssemblyReference.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.GeneratedMSBuildEditorConfig.editorconfig
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.AssemblyInfoInputs.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.AssemblyInfo.cs
@@ -12,4 +10,9 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\ne
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Domain.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Domain.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ref\ERPPRO.Persistence.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csprojAssemblyReference.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csproj.CopyComplete
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.runtimeconfig.json
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.runtimeconfig.dev.json
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.genruntimeconfig.cache

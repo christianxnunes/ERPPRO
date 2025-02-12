@@ -1,8 +1,6 @@
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\bin\Debug\net5.0\ERPPRO.Domain.deps.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\bin\Debug\net5.0\ERPPRO.Domain.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\bin\Debug\net5.0\ref\ERPPRO.Domain.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\bin\Debug\net5.0\ERPPRO.Domain.pdb
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.csprojAssemblyReference.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.AssemblyInfoInputs.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.AssemblyInfo.cs
@@ -10,3 +8,5 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ref\ERPPRO.Domain.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\bin\Debug\net5.0\ref\ERPPRO.Domain.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Domain\obj\Debug\net5.0\ERPPRO.Domain.csprojAssemblyReference.cache
