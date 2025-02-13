@@ -12,6 +12,6 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\ne
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Persistence.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Domain.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ERPPRO.Persistence.pdb
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\bin\Debug\net5.0\ref\ERPPRO.Application.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csprojAssemblyReference.cache
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csproj.CopyComplete
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.Application.csproj.AssemblyReference.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\ERPPRO.A.F8B0EB14.Up2Date
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Application\obj\Debug\net5.0\refint\ERPPRO.Application.dll

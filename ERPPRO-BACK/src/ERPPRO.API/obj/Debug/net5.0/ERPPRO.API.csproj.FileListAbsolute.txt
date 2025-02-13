@@ -5,13 +5,11 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERP
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.API.runtimeconfig.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.API.runtimeconfig.dev.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.API.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ref\ERPPRO.API.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.API.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csprojAssemblyReference.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.AssemblyInfoInputs.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.AssemblyInfo.cs
@@ -22,7 +20,6 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\sta
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\staticwebassets\ERPPRO.API.StaticWebAssets.xml
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\scopedcss\bundle\ERPPRO.API.styles.css
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.RazorTargetAssemblyInfo.cache
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csproj.CopyComplete
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ref\ERPPRO.API.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.pdb
@@ -61,3 +58,6 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERP
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Application.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Domain.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Persistence.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csproj.AssemblyReference.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csproj.Up2Date
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\refint\ERPPRO.API.dll

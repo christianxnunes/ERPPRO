@@ -12,5 +12,6 @@ namespace ERPPRO.Application.Contracts
         Task<Funcionario> UpdateFuncionarios(int funcionarioId, Funcionario model);
         Task<bool> DeleteFuncionarios(int funcionarioId);
         Task<Funcionario[]> GetAllFuncionariosAsync();
+        Task<Funcionario> GetIdFuncionarioAsync(int funcionarioId);
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ERPPRO.Persistence.Contexto;
+using ERPPRO.Application.Contracts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -13,6 +14,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using ERPPRO.Application;
+using ERPPRO.Persistence.Contracts;
+using ERPPRO.Persistence;
 
 namespace ERPPRO.API
 {
@@ -32,6 +36,11 @@ namespace ERPPRO.API
                 context => context.UseSqlite(Configuration.GetConnectionString("Default"))
             );
             services.AddControllers();
+
+            services.AddScoped<IFuncionarioApplication, FuncionarioApplication>();
+            services.AddScoped<IGeralPersistence, GeralPersistence>();
+            services.AddScoped<IFuncionarioPersistence, FuncionarioPersistence>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ERPPRO.API", Version = "v1" });

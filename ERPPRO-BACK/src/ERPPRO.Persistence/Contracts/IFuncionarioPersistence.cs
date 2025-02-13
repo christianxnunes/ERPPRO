@@ -9,5 +9,6 @@ namespace ERPPRO.Persistence.Contracts
     public interface IFuncionarioPersistence
     {
         Task<Funcionario[]> GetAllFuncionariosAsync();
+        Task<Funcionario> GetIdFuncionarioAsync(int funcionarioId);
     }
 }

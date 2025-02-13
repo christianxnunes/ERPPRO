@@ -10,9 +10,9 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\ne
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Domain.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Domain.pdb
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ref\ERPPRO.Persistence.dll
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csprojAssemblyReference.cache
-D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csproj.CopyComplete
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.runtimeconfig.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\bin\Debug\net5.0\ERPPRO.Persistence.runtimeconfig.dev.json
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.genruntimeconfig.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.Persistence.csproj.AssemblyReference.cache
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\ERPPRO.P.6C9906CF.Up2Date
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.Persistence\obj\Debug\net5.0\refint\ERPPRO.Persistence.dll

@@ -22,5 +22,11 @@ namespace ERPPRO.Persistence
             query = query.OrderBy(f => f.Id);
             return await query.ToArrayAsync();
         }
+        public async Task<Funcionario> GetIdFuncionarioAsync(int funcionarioId)
+        {
+            IQueryable<Funcionario> query = _context.Funcionarios;
+            query = query.OrderBy(f => f.Id).Where(f => f.Id == funcionarioId);
+            return await query.FirstOrDefaultAsync();
+        }
     }
 }
