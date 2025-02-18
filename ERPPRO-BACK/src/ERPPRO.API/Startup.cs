@@ -35,11 +35,12 @@ namespace ERPPRO.API
             services.AddDbContext<ERPPROContext>(
                 context => context.UseSqlite(Configuration.GetConnectionString("Default"))
             );
-            services.AddControllers();
+            services.AddControllers()
+                .AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
-            services.AddScoped<IFuncionarioApplication, FuncionarioApplication>();
+            services.AddScoped<IEventoApplication, EventoApplication>();
             services.AddScoped<IGeralPersistence, GeralPersistence>();
-            services.AddScoped<IFuncionarioPersistence, FuncionarioPersistence>();
+            services.AddScoped<IEventoPersistence, EventoPersistence>();
 
             services.AddSwaggerGen(c =>
             {

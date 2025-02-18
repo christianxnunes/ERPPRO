@@ -58,6 +58,10 @@ D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERP
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Application.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Domain.pdb
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\ERPPRO.Persistence.pdb
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csproj.AssemblyReference.cache
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\ERPPRO.API.csproj.Up2Date
 D:\christianEstudo\meuGit\ERPPRO\ERPPRO-BACK\src\ERPPRO.API\obj\Debug\net5.0\refint\ERPPRO.API.dll
