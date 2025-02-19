@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using ERPPRO.Application.Contracts;
 using Microsoft.AspNetCore.Http;
 using ERPPRO.Application;
+using ERPPRO.API.Dtos;
 
 namespace ERPPRO.API.Controllers
 {
@@ -28,7 +29,24 @@ namespace ERPPRO.API.Controllers
             {
                 var eventos  = await _eventoApplication.GetAllEventosAsync(true);
                 if (eventos == null) return NotFound("Nenhum registro encontrado!");
-                return Ok(eventos);
+
+                var eventosRetorno = new List<EventoDto>();
+                foreach (var evento in eventos)
+                {
+                    eventosRetorno.Add(new EventoDto()
+                    {
+                        Id = evento.Id,
+                        Local = evento.Local,
+                        DataEvento = evento.DataEvento.ToString(),
+                        Tema = evento.Tema,
+                        QtdPessoas = evento.QtdPessoas,
+                        ImagemURL = evento.ImagemURL,
+                        Telefone = evento.Telefone,
+                        Email = evento.Email
+                    });
+                }
+
+                return Ok(eventosRetorno);
             }
             catch (Exception ex)
             {
